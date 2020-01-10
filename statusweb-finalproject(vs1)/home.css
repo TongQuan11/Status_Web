@@ -1,0 +1,84 @@
+        .sybol{
+            padding-top: 70px;
+            text-align:center;
+            color: #ff8000;
+        }
+
+        .menu {
+            display: flex;
+        }
+        
+        .menu img {
+            padding-right: 10px;
+            padding-left: 10px;
+            height: 30px;
+            width: 50px;
+            border-radius: 100%;
+        }
+        
+        .post {
+        	margin-top: 20px;
+        	margin-bottom: 20px;
+            display: flex;
+            border-bottom: 6px #808080 solid;
+            align-items: center;
+        }
+        .post img{
+        	height: 50px;
+            width: 50px;
+            border-radius: 100%;
+        }
+        .status{
+        	border-bottom: 4px solid gray;
+        }
+        .infor_user{
+        	margin-top: 5px;
+        	margin-top: 5px;
+        	display: flex;
+           align-items: center;
+        }
+        .infor_user img{
+			height: 32px;
+			width: 32px;
+			margin-right: 5px;
+            height: 50px;
+            width: 50px;
+            border-radius: 100%;
+        }
+        .body_image{
+            height: 650px;
+            border: 50px black solid;
+            border-right: 150px black solid;
+            border-left: 150px black solid;
+            margin-bottom: 2px;
+        }
+        .body_image img{
+            border: 2px black solid;
+            border-radius: 5px;
+        }
+        .like{
+            border-top: 1px solid gray;
+            padding-top: 10px;
+            padding-bottom: 10px;
+        	display: flex;
+            padding-right: 70px;
+            padding-left: 70px;
+            align-items: center;
+        	justify-content: space-between;
+        }
+        .like p img{
+        	align-items: center;
+        	text-align: center;
+        }
+        .image-upload>input {
+            display: none;
+         }
+        .emotion{
+            align-items: center;
+            text-align: center;
+            padding-right: 100px;
+        }
+        .emotion>select {
+            width: 60px;
+            height: 30px;
+         }
