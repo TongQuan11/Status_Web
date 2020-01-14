@@ -1,0 +1,15 @@
+.profile{
+    padding-top: 70px;
+    text-align:center;
+    margin-left: 10%;
+    color: #ff8000;
+}
+    .profile img{
+        height: 300px;
+        width: 300px;
+        border-radius: 100%;
+        border: 1px solid #ff8000;
+    }
+    .profile h3{
+        font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;
+    }

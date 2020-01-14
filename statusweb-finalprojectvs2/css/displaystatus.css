@@ -1,0 +1,50 @@
+.status {
+    border-bottom: 4px solid gray;
+}
+
+.infor_user {
+    margin-top: 5px;
+    margin-top: 5px;
+    display: flex;
+    align-items: center;
+}
+
+.infor_user p {
+    padding-top: 3px;
+    padding-left: 3px;
+    font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;
+}
+
+.infor_user img {
+    height: 32px;
+    width: 32px;
+    margin-right: 5px;
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+}
+
+.body_image {
+    height: 700px;
+    border: 50px black solid;
+    border-right: 100px black solid;
+    border-left: 100px black solid;
+    margin-bottom: 2px;
+}
+
+.body_image img {
+    border: 2px black solid;
+    border-radius: 5px;
+    width: 100%;
+    height: 600px;
+}
+.emotion {
+    align-items: center;
+    text-align: center;
+    padding-right: 100px;
+}
+
+.emotion>select {
+    width: 60px;
+    height: 30px;
+}

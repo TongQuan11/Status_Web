@@ -1,0 +1,45 @@
+        .symbol{
+            padding-top: 70px;
+            text-align:center;
+            color: #ff8000;
+        }
+        .symbol img{
+            height: 300px;
+            width: 300px;
+            border-radius: 50%;
+            border: 1px solid #ff8000;
+        }
+        .symbol h3{
+            font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;
+        }
+
+        .post {
+        	margin-top: 20px;
+        	margin-bottom: 20px;
+            display: flex;
+            border-bottom: 6px #808080 solid;
+            align-items: center;
+        }
+        .post img{
+        	height: 50px;
+            width: 50px;
+            border-radius: 100%;
+        }
+        .post input{
+            border-radius: 50px;
+            width: 50%;
+            height: 40px; 
+            margin-left: 10px;
+             margin-right: 10px;
+        }
+        .image-upload{
+            padding-right: 50px;
+        }
+        .image-upload>input {
+            display: none;
+           
+         }
+        .image-upload i{
+            font-size:36px;
+        }
+        

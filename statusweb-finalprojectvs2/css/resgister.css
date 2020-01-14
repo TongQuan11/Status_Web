@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(images/back_res.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+.form_resgister {
+    position: relative;
+    margin: auto;
+    display: grid;
+    width: 300px;
+    height: 470px;
+    width: 292px;
+    background-color: white;
+    border-radius: 15px;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.inputs {
+    display: grid;
+}
+
+#button_resgister {
+    margin-right: 15px;
+    margin-left: 15px;
+    height: 30px;
+    background: linear-gradient(to right, #fc00ff, #00dbde);
+}
+
+.inputs {
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+.inputs input {
+    height: 30px;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    border-bottom: 2px solid #00BCD4;
+    margin-top: 6px;
+    margin-bottom: 10px;
+    outline-style: none;
+}

@@ -1,0 +1,19 @@
+.header {
+    justify-content: space-between;
+    display: flex;
+    background-color: #bfff00;
+    border-bottom: 1px #808080 solid;
+    position: fixed;
+    top: 0px;
+    width: 82.5%;
+   
+}
+
+.header i {
+    font-size: 36px;
+}
+
+.formsearch {
+    display: flex;
+    justify-content: space-between;
+}
