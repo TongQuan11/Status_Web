@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: lightblue;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+.form_login {
+    position: relative;
+    margin: auto;
+    display: grid;
+    width: 300px;
+    height: 470px;
+    width: 292px;
+    background-color: white;
+    border-radius: 15px;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.name_pass {
+    display: grid;
+}
+
+#lbunder_login {
+    text-align: center;
+}
+
+#button_login {
+    margin-right: 15px;
+    margin-left: 15px;
+    height: 30px;
+    background: linear-gradient(to right, #fc00ff, #00dbde);
+}
+
+.name_pass {
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+.name_pass input {
+    height: 30px;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    border-bottom: 2px solid #00BCD4;
+    margin-top: 6px;
+    margin-bottom: 10px;
+    outline-style: none;
+}
+
+.div_button {
+    margin-right: 15px;
+    margin-left: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.div_button button {
+    height: 25px;
+    width: 99px;
+    padding: 0px 10px;
+}
+
+span {
+    color: blue;
+}
+
+#lb_footer {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}

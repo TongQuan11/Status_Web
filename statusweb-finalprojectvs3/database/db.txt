@@ -1,0 +1,17 @@
+create database statusweb;
+use statusweb;
+create table users(
+	id int primary key auto_increment,
+	name varchar(255),
+	pass varchar(255),
+	fullname varchar(255),
+	image varchar(255)
+);
+
+create table posts(
+	id int primary key auto_increment,
+	fullname varchar(255),
+	status varchar(255),
+	image varchar(255),
+	emotion varchar(255)
+);

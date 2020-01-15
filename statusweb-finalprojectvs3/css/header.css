@@ -1,0 +1,23 @@
+.header {
+    justify-content: space-between;
+    display: flex;
+    background-color:lightblue;
+    border-bottom: 1px #808080 solid;
+    position: fixed;
+    top: 0px;
+    width: 82.5%;
+   
+}
+
+.header i {
+    font-size: 36px;
+}
+
+.form-inline{
+    display: flex;
+    justify-content: space-between;
+}
+.form-inline button{
+    background-color: orange;
+    color: black;
+}

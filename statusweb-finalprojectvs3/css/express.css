@@ -1,0 +1,19 @@
+.express {
+    border-top: 1px solid gray;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    padding-right: 70px;
+    padding-left: 70px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.express i {
+    font-size: 20px;
+}
+
+.express p img {
+    align-items: center;
+    text-align: center;
+}
